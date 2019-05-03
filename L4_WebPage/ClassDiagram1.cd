@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L4_WebPage.Residents">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAASEgAAAAAAACAAAAQCAAAAQAAAAAAA=</HashCode>
+      <FileName>Residents.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="L4_WebPage.ResidentsList">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResidentsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L4_WebPage.TerritoryCleaning">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQQEgAAAAAACAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>TerritoryCleaning.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

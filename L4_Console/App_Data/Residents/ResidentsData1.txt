@@ -1,0 +1,6 @@
+﻿Baltu gatve
+Vaitkauskas,2,0,20
+Jonauskas,3,2,50
+Zmezauskas,4,2,12
+Jurgenas,1,0,10
+Trumpauskas,4,4,100

@@ -1,0 +1,4 @@
+﻿Studentu gatve
+Pooonas,3,2,50
+Joooonas,2,0,20
+Gerauskas,4,2,12

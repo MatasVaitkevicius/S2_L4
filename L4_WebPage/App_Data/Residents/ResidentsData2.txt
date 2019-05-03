@@ -1,0 +1,6 @@
+﻿Radvilenu gatve
+Jopapauskas,2,0,20
+Tudauskas,3,2,50
+Jurgelyte,4,2,12
+Smekelyte,1,0,10
+Banderasaalinas,4,4,100
